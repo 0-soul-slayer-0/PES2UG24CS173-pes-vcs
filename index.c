@@ -253,8 +253,4 @@ int index_add(Index *index, const char *path) {
     entry->size = (uint32_t)st.st_size;
 
     return index_save(index);
-}// index init
-// add file logic
-// metadata handling
-// index update logic
-// index tested
+}
