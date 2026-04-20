@@ -213,3 +213,4 @@ ObjectID computed_id;
     return 0;
 }
 // init object module
+// added hashing logic
