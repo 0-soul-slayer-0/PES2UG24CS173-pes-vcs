@@ -256,3 +256,4 @@ int index_add(Index *index, const char *path) {
 }// index init
 // add file logic
 // metadata handling
+// index update logic
