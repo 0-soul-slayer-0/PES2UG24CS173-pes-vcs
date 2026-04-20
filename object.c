@@ -214,3 +214,4 @@ ObjectID computed_id;
 }
 // init object module
 // added hashing logic
+// write functionality
