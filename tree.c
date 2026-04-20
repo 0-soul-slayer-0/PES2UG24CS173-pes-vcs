@@ -214,3 +214,4 @@ int tree_from_index(ObjectID *id_out) {
 
     return write_tree_level(idx.entries, idx.count, 0, id_out);
 }// tree structure init
+// serialization logic
