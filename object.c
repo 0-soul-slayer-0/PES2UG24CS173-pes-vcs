@@ -212,7 +212,3 @@ ObjectID computed_id;
     free(full_data);
     return 0;
 }
-// init object module
-// added hashing logic
-// write functionality
-// read functionality
