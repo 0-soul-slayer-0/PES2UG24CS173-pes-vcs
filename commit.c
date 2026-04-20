@@ -241,3 +241,4 @@ int commit_create(const char *message, ObjectID *commit_id_out) {
 // commit init
 // commit creation
 // reference handling
+// commit linking
