@@ -216,3 +216,4 @@ int tree_from_index(ObjectID *id_out) {
 }// tree structure init
 // serialization logic
 // parsing logic
+// deterministic check
